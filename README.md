@@ -14,6 +14,11 @@ pip install -r requirements.txt
 python speedtest.py "url"
 ```
 
+## Пример запуска
+```bash
+python speedtest.py "https://samplelib.com/jpeg/sample-10mb.jpg"
+```
+
 ## Единицы измерения
 ```text
 - Скорость: Mbit/s (мегабиты в секунду)
